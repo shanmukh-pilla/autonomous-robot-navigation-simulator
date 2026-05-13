@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background: #111;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+canvas {
+  background: #1e1e1e;
+  border: 2px solid #333;
+  margin-top: 20px;
+}
+
+.metrics {
+  margin-top: 15px;
+}
