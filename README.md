@@ -4,19 +4,11 @@ A browser-based robotics simulation project focused on autonomous navigation, ob
 
 The simulator demonstrates how robotic systems can navigate dynamic environments while avoiding collisions and continuously evaluating path behavior.
 
-<div align="center">
+https://github.com/user-attachments/assets/918af9f1-f0cf-468c-a149-4157ab3be1ad
 
-  <img 
-    src="./Images/autonomous_robot_thumbnail.png" 
-    alt="Autonomous Robot Navigation Simulator"
-    width="100%"
-  />
-
-  <p>
-    Real-time robot navigation and obstacle avoidance simulation built using HTML, CSS, and JavaScript.
-  </p>
-
-</div>
+ <p align="center">
+  Real-time robot navigation and obstacle avoidance simulation built using HTML, CSS, and JavaScript.
+</p>
 
 ---
 
